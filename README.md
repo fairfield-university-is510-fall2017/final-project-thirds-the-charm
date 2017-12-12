@@ -1,6 +1,6 @@
 # Final Project:Thirds-the-Charm
 # <u>National Economic Accounts</u>
-<hr> </hr>
+
 ## Description/Purpose
 
 This project creates a database for purpose of comparing  worldwide national income account-type variables. To allow for accurate comparisons, some of our data has been converted to  converted to international prices. The homogenization of national accounts to a common numeraire allows for accurate comparisons of income between countries. Our database utilizes various comparable statistics to asses these differences. For the purpose of our project, we drew on data sets related to levels of education by gender and the ease of doing business in a country. We believe the information derived from these data sets provide meaningful insights into the economic realities of the nations examined. (ex: How levels of educational attainment, highest level of education completed, relate to household consumption. However, that is out-of-scope for now!).
