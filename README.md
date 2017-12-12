@@ -33,4 +33,4 @@ Education data was sourced from the [World Bank](https://data.worldbank.org/). G
 
 #### ERD Diagram
 
-(fix link first)
+![solarized symmetry](https://raw.githubusercontent.com/fairfield-university-is510-fall2017/final-project-thirds-the-charm/master/ProjNationalAccounts_ERD.PNG)
