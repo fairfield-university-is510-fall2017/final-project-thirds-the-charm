@@ -24,7 +24,7 @@ Our Ease of Business data was also obtained through the [Wharton Research Data S
 
 #### Education
 
-Education data was sourced from [link](Iforgetwhereexactly.com). Given the importance of educated work force in the modern economy, we felt data related to the level of educational attainment vital to our work. Attributes gained from this data sheet included adjusted net enrolment rates by sex, literacy, graduation ratios, and education enrollment rates. However, this data sheet was far from perfect. Not all countries had kept or chose not to submit records for certain variables. While this was not ideal, we believed the effect was negligible. Drastic changes to levels of education are generational and, given the scope of our project, we did not believe it would impact our results.
+Education data was sourced from the [World Bank](https://data.worldbank.org/). Given the importance of educated work force in the modern economy, we felt data related to the level of educational attainment vital to our work. Attributes gained from this data sheet included adjusted net enrolment rates by sex, literacy, graduation ratios, and education enrollment rates. However, this data sheet was far from perfect. Not all countries had kept or chose not to submit records for certain variables. While this was not ideal, we believed the effect was negligible. Drastic changes to levels of education are generational and, given the scope of our project, we did not believe it would impact our results.
 
 ----
   ## Designing the Database
